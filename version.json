@@ -1,1 +1,5 @@
-{"version": "0.1", "build": 1}
+{
+    "version": "v0.1",
+    "apk_url": "https://raw.githubusercontent.com/rambodplus/DPlusCanView/main/releases/DPlusCanView_v0.1.apk",
+    "changelog": "Initial public test release of DPlus CanView. Features: RPM, Boost (bar), Battery Voltage, Engine Temp, Thai voice alerts, FK8-themed dashboard, OTA update support."
+}
